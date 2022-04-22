@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\metodi2.exe
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\metodi2.deps.json
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\metodi2.runtimeconfig.json
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\metodi2.dll
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\ref\metodi2.dll
+C:\Users\User\source\repos\metodi\metodi2\bin\Debug\net6.0\metodi2.pdb
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.AssemblyInfo.cs
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.dll
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\ref\metodi2.dll
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.pdb
+C:\Users\User\source\repos\metodi\metodi2\obj\Debug\net6.0\metodi2.genruntimeconfig.cache
