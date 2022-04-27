@@ -41,12 +41,13 @@ namespace lesson
             Console.WriteLine("\nВведите число: ");
             int symbolCount = int.Parse(Console.ReadLine());
 
-            
-            Console.WriteLine($"\nИндекс числа: {DoArray(count, symbolCount)}");
-            //Console.WriteLine(DoArray(count, symbolCount));
-            
+            int x = DoArray(count, symbolCount);  
+            if (x > 0)
+                Console.WriteLine($"\nИндекс числа: {x}");
 
-            Console.ReadLine();
+            else Console.WriteLine($"\nИндекс числа не найден в массиве");
+
+           Console.ReadLine();
 
         }
     }
