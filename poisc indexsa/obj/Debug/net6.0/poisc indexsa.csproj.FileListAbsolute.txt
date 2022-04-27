@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\poisc indexsa.exe
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\poisc indexsa.deps.json
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\poisc indexsa.runtimeconfig.json
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\poisc indexsa.dll
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\ref\poisc indexsa.dll
+C:\Users\User\source\repos\metodi\poisc indexsa\bin\Debug\net6.0\poisc indexsa.pdb
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.AssemblyInfo.cs
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.dll
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\ref\poisc indexsa.dll
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.pdb
+C:\Users\User\source\repos\metodi\poisc indexsa\obj\Debug\net6.0\poisc indexsa.genruntimeconfig.cache
