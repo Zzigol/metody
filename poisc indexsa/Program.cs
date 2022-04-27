@@ -4,20 +4,25 @@ namespace lesson
 {
     class Progpam
     {
-        static int DoArray(int count, int symbolCount)
+        static int[] DoArray(int count)
         {
-            int x = -1;
             int[] arr = new int[count];
             Random r = new Random();
             for (int i = 0; i < count; i++)
             {
-                arr[i] = r.Next(-10,10);
+                arr[i] = r.Next(-10, 10);
             }
             Console.Write("Получившийся массив: ");
             for (int i = 0; i < count; i++)
             {
-                Console.Write(arr[i]+" ");
+                Console.Write(arr[i] + " ");
             }
+            return arr;
+        }
+        static int FindNamber(int count, int symbolCount)
+        {
+            int x = -1;
+            int [] arr = DoArray(count);
             for (int i = 0; i < count; i++)
             {
                 if (arr[i] == symbolCount)
@@ -41,7 +46,7 @@ namespace lesson
             Console.WriteLine("\nВведите число: ");
             int symbolCount = int.Parse(Console.ReadLine());
 
-            int x = DoArray(count, symbolCount);  
+            int x = FindNamber(count, symbolCount);  
             if (x > 0)
                 Console.WriteLine($"\nИндекс числа: {x}");
 
