@@ -21,18 +21,16 @@ namespace lesson
         }
         static int FindNamber(int count, int symbolCount)
         {
-            int x = -1;
             int [] arr = DoArray(count);
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < arr.Length-1; i++)
             {
                 if (arr[i] == symbolCount)
                 {
-                    x = i;
-                    break;
+                    return i;                    
                 }
-                else x = -1;
+                
             }
-              return x;
+              return -1;
                            
         }
         
